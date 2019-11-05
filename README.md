@@ -1,1 +1,1 @@
-Coming soon page for burmalink
+Coming soon page for burmalink and sample burmalink page
