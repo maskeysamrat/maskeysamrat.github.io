@@ -1,1 +1,1 @@
-Coming soon page for burmalink and sample burmalink page change css
+Coming soon page for burmalink and sample burmalink page change css + Logo
