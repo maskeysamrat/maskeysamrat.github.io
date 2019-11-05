@@ -1,11 +1,11 @@
 {
-    "title": "Coming Soon",
-    "name": "startbootstrap-coming-soon",
+    "title": "Burma Link",
+    "name": "Burma Link Travel Business Solution",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Coming Soon is a Bootstrap 4 coming soon page theme.",
+    "description": "Comming soon. the best travel busine solution",
     "keywords": [
         "css",
         "sass",
@@ -14,9 +14,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
+    "homepage": "https://burmalink.com",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues",
+        "url": "https://github.com/maskeysamrat/maskeysamrat.github.io/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon.git"
+        "url": "https://github.com/maskeysamrat/maskeysamrat.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
